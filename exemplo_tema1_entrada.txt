@@ -1,0 +1,22 @@
+1
+101
+Carla Dias
+85.5 12.4
+1
+102
+Elisa Melo
+92.0 11.8
+1
+103
+Ana Souza
+85.5 12.1
+1
+104
+Bruno Lima
+78.0 13.0
+1
+105
+Diego Rocha
+92.0 12.4
+5
+0
